@@ -8,6 +8,7 @@ I started off by selecting a region of San Antonio. I used Python to first explo
 I converted XML to JSON to prepare the data for MongoDB using Python. Later, I loaded the data in MongoDB and made it ready for further exploratory analysis tasks. I performed few queries using aggregations to find out top five restaurants, list of amenities etc in the city of San Antonio.
 After this project, I have become confident in the crucial data wrangling part of the data analysis.
 
+As I went through the job description, I came to know that the team requires to build predictive models and dashboard in order to answer critical marketing business questions. I feel that these questions will be answered more accurately if the model is fed the correct data. In order to generated clean data, the data wrangling needs to be carried out correctly. My current project has equipped me with this step which happens to be the foundation of the data analysis process. I feel that that I will be apply my data analysis skills efficiently in order to answer critical business questions. 
 
 **2.	You are given a ten-piece box of chocolate truffles. You know based on the label that six of the pieces have an orange cream filling and four of the pieces have a coconut filling. If you were to eat four pieces in a row, what is the probability that the first two pieces you eat have an orange cream filling and the last two have a coconut filling? 
 Follow-up question: If you were given an identical box of chocolates and again eat four pieces in a row, what is the probability that exactly two contain coconut filling? **
@@ -32,10 +33,9 @@ LIMIT 5
 ```
 **4.	Define a function first_unique that takes a string as input and returns the first non-repeated (unique) character in the input string. If there are no unique characters return None. Note: Your code should be in Python.**
 ```
-from collections import defaultdict
 def first_unique(word):
     '''initiate defaultdict for count'''   
-    counts = defaultdict(int)
+    counts = {}
     ''' create empty list'''
     l = []
     '''loop through each character in a string'''
@@ -59,5 +59,9 @@ In Machine Learning, overfitting occurs when the model overreacts to small fluct
 
 I am a big fan of Udacity. I joined Udacity to do Data Analyst Nanodegree and never stopped learning since then. A year from now, I would like to gain enough experience and work in more critical teams at Udacity to implement more innovative features to help fellow students and make learning more and more fun. I think I am ready for the job role at Udacity after completing the Nanodegree. 
 Link to the job: https://www.linkedin.com/jobs/view/362041007/
+
+Also, I would like to enhance my machine learning skills by doing Machine Learning Nanodegree at Udacity, followed by deep learning as well. I feel that I will become more equipped with the skills needed to be a successful data engineer.
+
+I feel that data is a crucial part of any organization. Data never lie. If we can analyse the previous history of data, we can get the power to predict the future of the market. It is fascinating to me how we can predict abnormal activity in a credit card transactions or predict which characteristics of diamonds are better than others or what kind of students have higher chances of passing all from data. I am glad to be a part of such an interesting field and would like to grow my career more and more. 
 
 https://www.linkedin.com/jobs/view/362041007/

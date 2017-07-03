@@ -33,23 +33,18 @@ LIMIT 5
 ```
 **4.	Define a function first_unique that takes a string as input and returns the first non-repeated (unique) character in the input string. If there are no unique characters return None. Note: Your code should be in Python.**
 ```
-def first_unique(word):
-    '''initiate defaultdict for count'''   
-    counts = {}
-    ''' create empty list'''
-    l = []
-    '''loop through each character in a string'''
+def firstNonRep(word):
+    count = {}
     for c in word:
-        counts[c] += 1
-        '''if there's first unique character, append them to list'''
-        if counts[c] == 1:
-            l.append(c)
-    ''' if list only contains 1 character, return the result'''        
-    for c in l:
-        if counts[c] == 1:
+        if c not in count:
+            count[c] = 0
+        count[c] += 1
+    for c in word:
+        if count[c] == 1:
             return c
-    ''' otherwise, return "None"" '''
-    return "None"
+            
+            
+print firstNonRep("Sargam")
 ```
 **5.	What are underfitting and overfitting in the context of Machine Learning? How might you balance them?**
 

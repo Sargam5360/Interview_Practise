@@ -12,12 +12,10 @@ As I went through the job description, I came to know that the team requires to 
 
 **2.	You are given a ten-piece box of chocolate truffles. You know based on the label that six of the pieces have an orange cream filling and four of the pieces have a coconut filling. If you were to eat four pieces in a row, what is the probability that the first two pieces you eat have an orange cream filling and the last two have a coconut filling? 
 Follow-up question: If you were given an identical box of chocolates and again eat four pieces in a row, what is the probability that exactly two contain coconut filling? **
-
 7.1 % probability that first two are orange and last two are coconut.
 Calculations: 6/10 * 5/9 * 4/8 *3/7
 Follow-up : There are 6 combinations. So, multiplying by 6, we get 0.07 * 6 = 0.42.
 Thus there is approx.. 42 % probability of getting exactly two coconut filling. 
-
 
 
 
@@ -53,10 +51,20 @@ In Machine Learning, overfitting occurs when the model overreacts to small fluct
 **6.	If you were to start your data analyst position today, what would be your goals a year from now?**
 
 I am a big fan of Udacity. I joined Udacity to do Data Analyst Nanodegree and never stopped learning since then. A year from now, I would like to gain enough experience and work in more critical teams at Udacity to implement more innovative features to help fellow students and make learning more and more fun. I think I am ready for the job role at Udacity after completing the Nanodegree. 
-Link to the job: https://www.linkedin.com/jobs/view/362041007/
-
-Also, I would like to enhance my machine learning skills by doing Machine Learning Nanodegree at Udacity, followed by deep learning as well. I feel that I will become more equipped with the skills needed to be a successful data engineer.
+Link to the job: https://www.linkedin.com/jobs/view/362041007/ 
 
 I feel that data is a crucial part of any organization. Data never lie. If we can analyse the previous history of data, we can get the power to predict the future of the market. It is fascinating to me how we can predict abnormal activity in a credit card transactions or predict which characteristics of diamonds are better than others or what kind of students have higher chances of passing all from data. I am glad to be a part of such an interesting field and would like to grow my career more and more. 
+
+Within the first 3 months, my goal are:
+
+1. Understand nuts and bolts of every single database scheme in Udacity 
+2. Have a clear knowledge of every Udacity metrics needed to operate in North America.
+3. Ability to do fundamental data analysis task for Udacity (predictive models, statistical inference,etc.)
+
+Within one year, my goal are:
+
+1. Code fluently in Python to develop new innovative metrics to track for Udacity.
+2. Query database, create new assumptions/hypothesis and test it. For example: I'd suspect Udacity customers are increasingly recent collee graduates, so I'd collect data & conduct a statistical test to test if this is true, and how could we target those new emerging segment.
+3. Develop new data product (an internal platform for Uber drivers or Uber data team).E.g an automate tool to calculate A/B testing result & experiement (split the data & conduct statistical analysis automatically with a few click of a button).
 
 https://www.linkedin.com/jobs/view/362041007/

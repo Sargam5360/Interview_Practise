@@ -64,7 +64,7 @@ Within the first 3 months, my goal are:
 Within one year, my goal are:
 
 1. Code fluently in Python to develop new innovative metrics to track for Udacity.
-2. Query database, create new assumptions/hypothesis and test it. For example: I'd suspect Udacity customers are increasingly recent collee graduates, so I'd collect data & conduct a statistical test to test if this is true, and how could we target those new emerging segment.
-3. Develop new data product (an internal platform for Uber drivers or Uber data team).E.g an automate tool to calculate A/B testing result & experiement (split the data & conduct statistical analysis automatically with a few click of a button).
+2. Query database, create new assumptions/hypothesis and test it. For example: I'd suspect Udacity customers are increasingly recent college graduates, so I'd collect data & conduct a statistical test to test if this is true, and how could we target those new emerging segment.
+3. Develop new data product (an internal platform for Udacity Employees).E.g an automate tool to calculate A/B testing result & experiement (split the data & conduct statistical analysis automatically with a few click of a button).
 
 https://www.linkedin.com/jobs/view/362041007/

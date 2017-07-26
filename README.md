@@ -2,7 +2,8 @@
 # Interview Practice (Data Analyst)
 By Sargam Shah
 ### Interview Questions:
-**1.	Describe a data project you worked recently**
+### **1.	Describe a data project you worked recently**
+
 I recently worked on a project which aimed at Data Wrangling of Openstreet Map Data. Data wrangling is, basically, cleaning the data and converting it into a format which is acceptable by the database in use. Data Wrangling takes about 75-80 % of the time involved in the data analysis process and it needs to be done correctly. I could achieve success in this task and discovered interesting facts about the city I chose.  
 I started off by selecting a region of San Antonio. I used Python to first explore the data and Jupyter notebooks to thoroughly document my work. Auditing the data gave me insights on the total paths in the city, total users who contributed to the map information. I solved problems encountered due to human error such as abbreviated street addresses, viz, Carrolton Rd instead of Carrolton Raod, and improper zip codes such as TX 78012 instead of simply putting 78012.
 I converted XML to JSON to prepare the data for MongoDB using Python. Later, I loaded the data in MongoDB and made it ready for further exploratory analysis tasks. I performed few queries using aggregations to find out top five restaurants, list of amenities etc in the city of San Antonio.
@@ -10,7 +11,8 @@ After this project, I have become confident in the crucial data wrangling part o
 
 As I went through the job description, I came to know that the team requires to build predictive models and dashboard in order to answer critical marketing business questions. I feel that these questions will be answered more accurately if the model is fed the correct data. In order to generated clean data, the data wrangling needs to be carried out correctly. My current project has equipped me with this step which happens to be the foundation of the data analysis process. I feel that that I will be apply my data analysis skills efficiently in order to answer critical business questions. 
 
-**2.	You are given a ten-piece box of chocolate truffles. You know based on the label that six of the pieces have an orange cream filling and four of the pieces have a coconut filling. If you were to eat four pieces in a row, what is the probability that the first two pieces you eat have an orange cream filling and the last two have a coconut filling? 
+### 2.	You are given a ten-piece box of chocolate truffles. You know based on the label that six of the pieces have an orange cream filling and four of the pieces have a coconut filling. If you were to eat four pieces in a row, what is the probability that the first two pieces you eat have an orange cream filling and the last two have a coconut filling? 
+
 Follow-up question: If you were given an identical box of chocolates and again eat four pieces in a row, what is the probability that exactly two contain coconut filling? **
 7.1 % probability that first two are orange and last two are coconut.
 Calculations: 6/10 * 5/9 * 4/8 *3/7

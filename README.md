@@ -69,4 +69,3 @@ Within one year, my goal are:
 2. Query database, create new assumptions/hypothesis and test it. For example: I'd suspect Udacity customers are increasingly recent college graduates, so I'd collect data & conduct a statistical test to test if this is true, and how could we target those new emerging segment.
 3. Develop new data product (an internal platform for Udacity Employees).E.g an automate tool to calculate A/B testing result & experiement (split the data & conduct statistical analysis automatically with a few click of a button).
 
-https://www.linkedin.com/jobs/view/362041007/
